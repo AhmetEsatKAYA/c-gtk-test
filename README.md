@@ -1,6 +1,6 @@
 # C ile grafik arayüz testi
 Bu bir c ile gtk kullanımı örneğidir.
-İsteyen ```make`` ile derleyip çalıştırabilir.
+İsteyen ```make``` ile derleyip çalıştırabilir.
 # Kurulum
 ```sudo apt install libgtk-2.0-dev```
 
